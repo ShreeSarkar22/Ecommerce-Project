@@ -1,5 +1,5 @@
 # Ecommerce-Project
-A Web Developement Project
+A Web Developement Project for Phoenix Association Inductions.
 
 This is a web developement project based on Python (Django), HTML, CSS, and Javascript.
 The aim is to make an ecommerce website.
