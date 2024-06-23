@@ -2,7 +2,7 @@
 A Web Developement Project
 
 This is a web developement project based on Python (Django), HTML, CSS, and Javascript.
-The aim is to make a ecommerce website.
+The aim is to make an ecommerce website.
 
 As of now, there is the home page of the store with selected items, a page for the cart, a page for checkout and an admin page. 
 For adding items to cart, one has to login via the admin page. 
